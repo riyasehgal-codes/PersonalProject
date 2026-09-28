@@ -35,7 +35,7 @@ Labubu ❤️`,
   ["TIMES YOU MADE ME SMILE","∞","I stopped counting.","#FFF4D6"],
   ["RELATIONSHIP GENRE","LOVE & CHAOS","I love, you Chaos >w<","#F89B55"],
   ["WHO IS ALWAYS RIGHT IN ARGUMENTS?","ME. DUH.","next question.","#FFD84D"]],
- loveList:["your laugh","your voice","the way you talk","your smile","your gaming skills","your terrible gaming decisions (rushing as a sentinal)","the way you make me laugh","your patience","your hugs","your random messages","your sleepy voice","your snoring on calls","the way you listen to me","your competitive side","your soft side","your ability to make boring days fun","your confidence","your kindness","the way you care","your ridiculous humor","your little habits","the way you say certain words","how you somehow make me feel safe","your face","Your gifts","Your drunk ILYs", "You resembling Pippo from doraemon", "your intentional cute typos","literally just you existing"],
+ loveList:["your laugh","your voice","the way you talk","your smile","your gaming skills","your terrible gaming decisions (rushing as a sentinal)","the way you make me laugh","your patience","your nicknames for me","your random messages","your sleepy voice","your snoring on calls","the way you listen to me","your competitive side","your soft side","your ability to make boring days fun","your confidence","your kindness","the way you care","your ridiculous humor","your little habits","the way you say certain words","how you somehow make me feel safe","your face","Your gifts","Your drunk ILYs", "You resembling Pippo from doraemon", "your intentional cute typos","literally just you existing"],
  songs: [
   {
     t: "Can't Help Falling in Love with you",
