@@ -23,7 +23,7 @@ Mwaaahhh <3,
 Labubu ❤️`,
  memories:[ // img: paste a photo URL or file path ("" shows an emoji)
   {e:"🎮",t:"PLAYING GAMES WITH YOU",c:" 'Give the goodboy a hug' BAHAHAHAH",img: roblox},
-  {e:"🌙",t:"LONG LONG CALLS",c:"I am unemployed, whats youre excuse? ",img:calls},
+  {e:"🌙",t:"LONG LONG CALLS",c:"I am unemployed, whats your excuse? ",img:calls},
   {e:"📺",t:"YOU STREAMING FOR ME",c:"Pretty Romantic to me, Dunno about you :P",img:stream},
   {e:"🎬",t:"WATCHING MOVIES TOGETHER",c:"my 10/10 movies and your questionable ones (i loved them)",img:movie},
   // {e:"🔫",t:"CUSTOM VALORANT GAMES",c:"romance, but make it competitive.",img:""}

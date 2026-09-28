@@ -19,6 +19,7 @@ export default function Coupons() {
 
       <p className="sub">
         because apparently love comes with benefits.
+        click to Redeem 
       </p>
 
       <div className="cps">

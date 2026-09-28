@@ -14,7 +14,7 @@ export default function MemoryGallery() {
   return (
     <section id="us" className="bg3">
       <h2>A LITTLE BIT OF US</h2>
-      <p className="sub">tiny moments that somehow became my favorite memories.</p>
+      <p className="sub">tiny moments that somehow became my favorite memories. Click to Zoooom!</p>
       <div className="grid">{D.memories.map((m, i) => <Polaroid key={i} m={m} i={i} onClick={() => setZ(i)} />)}</div>
       <div className={'zoom' + (z !== null ? ' on' : '')} onClick={() => setZ(null)}>
         {z !== null && <Polaroid m={D.memories[z]} i={z} big />}
