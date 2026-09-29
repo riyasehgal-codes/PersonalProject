@@ -40,21 +40,21 @@ Labubu ❤️`,
   {
     t: "Can't Help Falling in Love with you",
     a: "Elvis Presley",
-    r: "Some things are meant to be",
+    r: "'Some things are meant to be'",
     e: "🎵",
     img: elvis
   },
   {
     t: "Stupid Song",
     a: "Olivia Rodrigo",
-    r: "because i love you more than any stupid song could ever say",
+    r: "'because i love you more than any stupid song could ever say'",
     e: "🌙",
     img: olivia
   },
   {
     t: "Invisible String",
     a: "Taylor Swift",
-    r: "All along there was some, invisible string, tying you to me",
+    r: "'All along there was some, invisible string, tying you to me'",
     e: "🎧",
     img: taylor
   }
